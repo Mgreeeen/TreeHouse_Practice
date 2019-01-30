@@ -92,9 +92,3 @@ while True:
                 quit()
             else:
                 another_loop_lol = True
-
-#Hello to whomever has read over and evaluated this script! This took me an embarrassingly large amount of time to do
-#and I'd appreciate some suggestions in order to make it not so burdensome in the future. I feel like I was way too
-#heavy with the 'while True loops' and would like to learn an alternative method. I tried functions but failed miserably
-#because I wasn't able to return values (x, high_score) to use in the rest of the program. Sooo yea. Any advice on that
-#topic would be greatly appreciated. Thank you!
